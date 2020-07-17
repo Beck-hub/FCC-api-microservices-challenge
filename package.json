@@ -1,0 +1,20 @@
+{
+  "name": "api-microservices-project",
+  "version": "1.0.0",
+  "description": "FCC Backend challenge one",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "rebekah schonauer",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "i": "^0.3.6",
+    "nodemon": "^2.0.4"
+  }
+}

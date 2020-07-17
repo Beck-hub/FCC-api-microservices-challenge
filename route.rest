@@ -1,0 +1,15 @@
+GET http://localhost:3000/api/timestamp/2015-12-25
+// 25 Dec 2015
+// 1451001600000
+// 1451001600000
+// api/timestamp/:date_string? 1549312452000 2020-07-17
+//1594944000000
+//08/19/2010
+// {
+  // "unix": 1594995431611,
+  // "utc": "Fri, 17 Jul 2020 14:17:11 GMT"
+// }
+ //"unix": 1594995483781,
+ // "utc": "Fri Jul 17 2020 16:18:03 GMT+0200 (Central European Summer Time)"
+//}
+
